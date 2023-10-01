@@ -1,6 +1,6 @@
 # S2: Motor Vehicle Administration (Scheduling System)
 <div align='center'><img src='PB053.gif' /></div>
-n
+
 ## Instructions
 >There is a list of appointments (file 200) in *storage* that contains an appointment for NthDimension (file 300) to take his driving test. Remove the appointment from the list of appointments, change the date to today's date (#DATE register), and insert it between today's appointments and tomorrow's appointments.
 >

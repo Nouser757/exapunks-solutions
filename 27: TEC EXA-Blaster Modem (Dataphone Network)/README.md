@@ -1,6 +1,6 @@
 # 27: TEC EXA-Blaster Modem (Dataphone Network)
 <div align='center'><img src='PB026B.gif' /></div>
-n
+
 ## Instructions
 >Using your modem, connect to each dataphone so that EMBER-2 will have a list of valid phone numbers.
 >

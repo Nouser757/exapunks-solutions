@@ -1,6 +1,6 @@
 # 34: Mitsuzen HDI-10 (Cerebral Cortex)}
 <div align='center'><img src='PB036.gif' /></div>
-n
+
 ## Instructions
 >Create a file in your host containing the hostname and hardware register value of each neuron exactly once, sorted as pairs from lowest to highest hostname.
 >

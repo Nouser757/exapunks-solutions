@@ -1,6 +1,6 @@
 # 16: TEC Redshift (Development Kit)
 <div align='center'><img src='PB015.gif' /></div>
-n
+
 ## Instructions
 >There is an unknown three-digit code (such as 4-7-3) that, when entered one digit at a time into #PASS, will unlock the link between *debug* and *secret*. Find the three-digit code and create a file in your host that contains the code as a sequence of three values, followed by the development kit's RDK ID.
 

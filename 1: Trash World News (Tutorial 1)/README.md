@@ -1,6 +1,6 @@
 # 1: Trash World News (Tutorial 1)
 <div align='center'><img src='PB000.gif' /></div>
-n
+
 ## Instructions
 >Move file 200 to the *outbox*.
 >

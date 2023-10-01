@@ -1,6 +1,6 @@
 # 11: UC Berkeley (EECS Department)
 <div align='center'><img src='PB009.gif' /></div>
-n
+
 ## Instructions
 >﻿Locate the specified host (either *tape-1*, *tape-2*, or *tape-3*), and then locate the specified entry (‗ПАСЬЯНС‗) in the tape backup file in that host (file 200). Create a file in your host containing the entry's data.
 >

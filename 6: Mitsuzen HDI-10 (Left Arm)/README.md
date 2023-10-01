@@ -1,6 +1,6 @@
 # 6: Mitsuzen HDI-10 (Left Arm)
 <div align='center'><img src='PB004.gif' /></div>
-n
+
 ## Instructions
 >Read a value from the nerve connected to your central nervous system (CNS) and relay it to the nerve connected to your arm (ARM), clamping the value so that it never goes below -120 or above 50. Repeat _ad infinitum_.
 >

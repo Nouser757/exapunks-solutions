@@ -1,6 +1,6 @@
 # 13: Equity First Bank (San Fancisco)
 <div align='center'><img src='PB012.gif' /></div>
-n
+
 ## Instructions
 >Dispense all available cash from all connected ATMs.
 >

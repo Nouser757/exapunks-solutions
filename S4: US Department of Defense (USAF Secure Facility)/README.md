@@ -1,6 +1,6 @@
 # S4: US Department of Defense (USAF Secure Facility)
 <div align='center'><img src='PB056.gif' /></div>
-n
+
 ## Instructions
 >﻿Find the unredacted version of the ‗PROJECT OGRE‗ report (file 300), make a copy of it, and bring the copy back to your host. The target file will be behind one or more locks, which each require a three-digit code.
 >

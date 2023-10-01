@@ -1,6 +1,6 @@
 # 25: KGOG-TV (Satellite Uplink)
 <div align='center'><img src='PB028.gif' /></div>
-n
+
 ## Instructions
 >Align the satellite dish with the target satellite by setting the azimuth, elevation, and frequency. Then transmit the data from EMBER-2's video (file 301) after encrypting it using the TV station's encryption key (file 199).
 >

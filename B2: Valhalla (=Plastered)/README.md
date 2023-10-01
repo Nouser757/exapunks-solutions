@@ -1,6 +1,6 @@
 # B2: Valhalla (=Plastered)
 <div align='center'><img src='PB027.gif' /></div>
-n
+
 ## Instructions
 >To win this battle you must control a majority of the hosts for as long as possible. 
 >

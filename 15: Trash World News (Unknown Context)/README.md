@@ -1,6 +1,6 @@
 # 15: Trash World News (Unknown Context)
 <div align='center'><img src='PB013C.gif' /></div>
-n
+
 ## Instructions
 >﻿Find and replace the keywords in the target message (file 212) as directed by EMBER-2.
 >

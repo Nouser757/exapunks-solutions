@@ -1,5 +1,7 @@
 # S7: Mitsuzen D300-N (Personal Storage Array)
-<div align='center'>[no gif for this one, it was like 300mb]</div>
+<div align='center'>[sorry no gif for this one it was 300mb and 34 minutes long]</div>
+<div align='center'>[cycles: 64641 | size: 443 | activity: 6255]</div>
+
 ## Instructions
 >The data on this drive array is duplicated across three drives for redundancy, with a file name index stored in the *controller* (file 200). Unfortunately, the drive array is failing.
 >

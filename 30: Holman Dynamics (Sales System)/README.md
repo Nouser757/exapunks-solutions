@@ -1,6 +1,6 @@
 # 30: Holman Dynamics (Sales System)
 <div align='center'><img src='PB032.gif' /></div>
-n
+
 ## Instructions
 >Create a file in your host containing the contiguous 16-value sequence from the garbage file (file 199) that is a valid credit card number. There will be exactly one such sequence.
 >

@@ -1,6 +1,6 @@
 # S1: Bloodlust Online (US East Realm)
 <div align='center'><img src='PB054.gif' /></div>
-n
+
 ## Instructions
 >Each host contains an item listing (file 200) that lists all of the items in that location (ID, type, and state).
 >

@@ -1,6 +1,6 @@
 # 7: Last Stop Snaxnet (Factory 11)
 <div align='center'><img src='PB005.gif' /></div>
-n
+
 ## Instructions
 >﻿Remove the keyword ‗PEANUTS‗ (file 300) from the Peanut Blast recipe (file 237).
 >

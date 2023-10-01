@@ -1,6 +1,6 @@
 # 3: Trash World News (Tutorial 3)
 <div align='center'><img src='PB037.gif' /></div>
-n
+
 ## Instructions
 >File 199 contains exactly two values: a keyword and a number. Create a new file in the *outbox* and copy those two values to it, swapping their order so that the number is first. When you are finished, delete file 199.
 >

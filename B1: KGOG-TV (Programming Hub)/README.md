@@ -1,6 +1,6 @@
 # B1: KGOG-TV (Programming Hub)
 <div align='center'><img src='PB014.gif' /></div>
-n
+
 ## Instructions
 >To win this battle you must make your movies play for longer than your opponent's. A movie will play when that movie's file is the only movie file sitting in a *channel* host.
 >

@@ -1,6 +1,6 @@
 # B5: Aberdeen (selenium_wolf)
 <div align='center'><img src='PB031B.gif' /></div>
-n
+
 ## Instructions
 >To win this battle you must occupy a majority of the hosts for as long as possible. You occupy a host if you have more EXAs in it than your opponent.
 >

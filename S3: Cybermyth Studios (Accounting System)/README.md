@@ -1,6 +1,6 @@
 # S3: Cybermyth Studios (Accounting System)
 <div align='center'><img src='PB050.gif' /></div>
-n
+
 ## Instructions
 >Each host contains two files: a list of accounts and a list of transactions. Although the entries in these files vary, the first value of each entry is a unique identifier that connects an account to one or more transactions.
 >

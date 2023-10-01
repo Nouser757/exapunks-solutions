@@ -1,6 +1,6 @@
 # 33: TEC EXA-Blaster Modem (Pager Network)
 <div align='center'><img src='PB035B.gif' /></div>
-n
+
 ## Instructions
 >Connect to each pager and copy EMBER-2's message (file 300) to the screen (#DATA). Then activate all of the pagers at exactly the same time by writing a value to each #PAGE register in the same cycle.
 >

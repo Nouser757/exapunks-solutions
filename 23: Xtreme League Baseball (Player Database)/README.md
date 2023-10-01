@@ -1,6 +1,6 @@
 # 23: Xtreme League Baseball (Player Database)
 <div align='center'><img src='PB023.gif' /></div>
-n
+
 ## Instructions
 >The hosts *active* and *penalty* contain files that correspond to extreme baseball players (files 200-299), along with a directory file that contains a list of those files' IDs (file 199). Each player file contains their name and the following statistics in this order: BA, ZA, APB, WRT, OI, OD, PC, and PS.
 >

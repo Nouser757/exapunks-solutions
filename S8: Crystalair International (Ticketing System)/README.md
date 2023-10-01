@@ -1,6 +1,6 @@
 # S8: Crystalair International (Ticketing System)
 <div align='center'><img src='PB055.gif' /></div>
-n
+
 ## Instructions
 >﻿Each host in the network corresponds to a country and contains a list of tickets for flights (file 200) departing airports in that country, bound for airports either also in that country or in a connected country. Each ticket has the following values: ticket ID, departure airport, departure time, arrival airport, and arrival time.
 >

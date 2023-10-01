@@ -1,6 +1,6 @@
 # S6: Española Valley High School (School Management System)
 <div align='center'><img src='PB057.gif' /></div>
-n
+
 ## Instructions
 >﻿Replace ‗ENGLISH‗ with ‗AP ENGLISH‗ (file 300) in selenium\_wolf's child's class schedule (file 235).
 >

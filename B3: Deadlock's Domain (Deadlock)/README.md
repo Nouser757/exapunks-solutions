@@ -1,6 +1,6 @@
 # B3: Deadlock's Domain (Deadlock)
 <div align='center'><img src='PB022.gif' /></div>
-n
+
 ## Instructions
 >To win this battle you must grab files as they spawn in the central hosts and bring them back to your host. 
 >
