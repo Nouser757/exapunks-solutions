@@ -1,4 +1,4 @@
-# 3: Trash World News (Tutorial 3)
+# 03: Trash World News (Tutorial 3)
 <div align='center'><img src='PB037.gif' /></div>
 
 ## Instructions

@@ -1,4 +1,4 @@
-# 5: Euclid's Pizza (Order System)
+# 05: Euclid's Pizza (Order System)
 <div align='center'><img src='PB003B.gif' /></div>
 
 ## Instructions

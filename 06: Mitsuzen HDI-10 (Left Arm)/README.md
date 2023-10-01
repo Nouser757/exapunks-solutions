@@ -1,4 +1,4 @@
-# 6: Mitsuzen HDI-10 (Left Arm)
+# 06: Mitsuzen HDI-10 (Left Arm)
 <div align='center'><img src='PB004.gif' /></div>
 
 ## Instructions

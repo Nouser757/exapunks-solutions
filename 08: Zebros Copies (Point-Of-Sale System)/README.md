@@ -1,4 +1,4 @@
-# 8: Zebros Copies (Point-Of-Sale System)
+# 08: Zebros Copies (Point-Of-Sale System)
 <div align='center'><img src='PB006B.gif' /></div>
 
 ## Instructions

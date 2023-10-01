@@ -1,4 +1,4 @@
-# 1: Trash World News (Tutorial 1)
+# 01: Trash World News (Tutorial 1)
 <div align='center'><img src='PB000.gif' /></div>
 
 ## Instructions

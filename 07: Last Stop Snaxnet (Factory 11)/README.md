@@ -1,4 +1,4 @@
-# 7: Last Stop Snaxnet (Factory 11)
+# 07: Last Stop Snaxnet (Factory 11)
 <div align='center'><img src='PB005.gif' /></div>
 
 ## Instructions
